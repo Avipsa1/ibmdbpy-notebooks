@@ -9,3 +9,5 @@ These IPython notebooks provide useful examples that you can use as a tutorial t
 The ibmdbPy source code is available on [GitHub](https://github.com/ibmdbanalytics/ibmdbpy) and [PyPI](https://pypi.python.org/pypi/ibmdbpy). 
 
 Please visit the [ibmdbPy documentation](http://pythonhosted.org/ibmdbpy/) for more information.
+
+[![DOI](https://zenodo.org/badge/60774107.svg)](https://zenodo.org/badge/latestdoi/60774107)
